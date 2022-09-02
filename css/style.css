@@ -6,6 +6,38 @@
 */
 
 body {
-  font-family: 'Roboto', 'Raleway', sans-serif;
+  background-color: #e5e5e5;
   color: #212121;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+.logo-word {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+.logo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  text-decoration: none;
+}
+
+.link {
+  color: #212121;
+}
+.link:hover {
+  color: #2196f3;
 }
