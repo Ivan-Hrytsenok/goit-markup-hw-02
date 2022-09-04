@@ -41,7 +41,7 @@ body {
   color: var(--title-text-color);
 }
 
-.site-nav .list.current {
+.site-nav .link.current {
   color: var(--accent-text-color);
 }
 
